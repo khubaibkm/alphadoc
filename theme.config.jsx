@@ -1,8 +1,8 @@
 export default {
   head: (
     <>
+      <title>AlphaDocs</title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta property="og:title" content="AlphaDocs" />
       <link rel="icon" href="/Logo.svg" type="image/x-icon" />
     </>
   ),
