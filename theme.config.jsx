@@ -1,4 +1,11 @@
 export default {
+  head: (
+    <>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <meta property="og:title" content="AlphaDocs" />
+      <link rel="icon" href="/Logo.svg" type="image/x-icon" />
+    </>
+  ),
   logo: (
     <span style={{ display: 'flex', alignItems: 'center' }}>
       <img src="/Logo.svg" alt="My Nextra Documentation" width="20" height="20" style={{ marginRight: '8px' }} />
